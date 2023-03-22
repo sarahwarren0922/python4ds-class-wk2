@@ -11,10 +11,11 @@ st.title("Amsterdam Airbnb - Data Cleansing & Filtering (Python for DS Week 2)")
 
 st.write(
     """
-    In this project we cleansed and merged two raw data files from Amsterdam AirBnB to produce the below dataframe.
-    This app allows you to filter the processed data to view trends and find your perfect AirBnB listing!
+    In this project we cleansed and merged two raw data files from Amsterdam AirBnB to produce the below dataframe. This app allows you to filter the processed data to view trends and find your perfect AirBnB listing!
+    
+    Select "Add Filters" below to get started.
+    
     Note:This app is based on this [blog](https://blog.streamlit.io/auto-generate-a-dataframe-filtering-ui-in-streamlit-with-filter_dataframe/). 
-    Can you think of ways to extend it with visuals?
     """
 )
 

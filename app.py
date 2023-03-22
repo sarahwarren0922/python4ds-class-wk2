@@ -15,7 +15,7 @@ st.write(
     
     Select "Add Filters" below to get started.
     
-    Note:This app is based on this [blog](https://blog.streamlit.io/auto-generate-a-dataframe-filtering-ui-in-streamlit-with-filter_dataframe/). 
+    *Note that this app is based on the following [blog](https://blog.streamlit.io/auto-generate-a-dataframe-filtering-ui-in-streamlit-with-filter_dataframe/).*
     """
 )
 
